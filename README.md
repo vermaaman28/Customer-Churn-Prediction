@@ -1,4 +1,4 @@
-# Customer Churn Prediction
+<img width="2554" height="1177" alt="image" src="https://github.com/user-attachments/assets/6223b063-c53b-4c73-bcb9-adde6f315b3c" /># Customer Churn Prediction
 
 ## Overview
 This project analyzes telecom customer data to identify factors contributing to customer churn and builds machine learning models to predict churn.
@@ -29,6 +29,15 @@ This project analyzes telecom customer data to identify factors contributing to 
 - Seaborn
 - Scikit-Learn
 - XGBoost
+- 
+ ## Skills Demonstrated
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Feature Engineering
+- Machine Learning
+- Business Analysis
+- Customer Retention Strategy
 
 ## Business Recommendations
 - Promote long-term contracts.
